@@ -1,4 +1,5 @@
-# Mini Game
-A little Javascript practice
+# Мини-игра на чистом Javascript
+
+Моя небольшая практика
 
 ![image-20220328153045668](/preview.png)
