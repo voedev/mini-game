@@ -1,5 +1,5 @@
-# Мини-игра на чистом Javascript
+# Mini-game in Javascript
 
-Моя небольшая практика
+My little practice
 
-![image-20220328153045668](/preview.png)
+![](/preview.png)
