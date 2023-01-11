@@ -1,3 +1,3 @@
-# Mini-game in Javascript
+# Mini-game in JavaScript
 
 ![](/preview.png)
